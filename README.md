@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/editholayo/">Edith Olayo</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href=www.linkedin.com/in/edith-olayo-4b59b776>Edith Olayo</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I am a cybersecurity enthusiast focused on strengthening skills through hands-on projects and continuous learning. I enjoy exploring areas like threat detection, and vulnerability assessment, and I'm committed to staying current with the latest trends in cybersecurity while contributing to the community.
 
